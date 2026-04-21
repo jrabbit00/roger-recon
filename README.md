@@ -98,6 +98,16 @@ This tool is for authorized testing only. Always get permission before scanning 
 
 MIT License - see [LICENSE](LICENSE) for details.
 
+---
+
+## Support
+
+If Roger Recon helps you in your bug bounty hunting, consider sponsoring!
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/jrabbit00)
+
+---
+
 ## Author
 
 Created by Ashlee 🐰
