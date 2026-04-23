@@ -133,4 +133,4 @@ If Roger Recon helps you in your bug bounty hunting, consider [sponsoring the pr
 
 ## Author
 
-Created by [Ashlee (Jessica Rabbit)](https://github.com/jrabbit00) 🐰
+Created by [J Rabbit](https://github.com/jrabbit00) 🐰
