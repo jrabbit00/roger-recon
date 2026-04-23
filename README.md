@@ -108,6 +108,29 @@ If Roger Recon helps you in your bug bounty hunting, consider sponsoring!
 
 ---
 
+## 🐰 The Complete Roger Toolkit
+
+| Tool | Purpose | Status |
+|------|---------|--------|
+| **roger-recon** | All-in-one recon suite | ✅ |
+| [roger-direnum](https://github.com/jrabbit00/roger-direnum) | Directory enumeration | ✅ |
+| [roger-jsgrab](https://github.com/jrabbit00/roger-jsgrab) | JavaScript analysis | ✅ |
+| [roger-sourcemap](https://github.com/jrabbit00/roger-sourcemap) | Source map extraction | ✅ |
+| [roger-paramfind](https://github.com/jrabbit00/roger-paramfind) | Parameter discovery | ✅ |
+| [roger-wayback](https://github.com/jrabbit00/roger-wayback) | Wayback URL enumeration | ✅ |
+| [roger-cors](https://github.com/jrabbit00/roger-cors) | CORS misconfigurations | ✅ |
+| [roger-jwt](https://github.com/jrabbit00/roger-jwt) | JWT security testing | ✅ |
+| [roger-headers](https://github.com/jrabbit00/roger-headers) | Security header scanner | ✅ |
+| [roger-xss](https://github.com/jrabbit00/roger-xss) | XSS vulnerability scanner | ✅ |
+| [roger-sqli](https://github.com/jrabbit00/roger-sqli) | SQL injection scanner | ✅ |
+| [roger-redirect](https://github.com/jrabbit00/roger-redirect) | Open redirect finder | ✅ |
+| [roger-idor](https://github.com/jrabbit00/roger-idor) | IDOR detection | ✅ |
+| [roger-ssrf](https://github.com/jrabbit00/roger-ssrf) | SSRF vulnerability scanner | ✅ |
+
+## ☕ Support
+
+If Roger Recon helps you in your bug bounty hunting, consider [sponsoring the project](https://github.com/sponsors/jrabbit00)!
+
 ## Author
 
-Created by Ashlee 🐰
+Created by [Ashlee (Jessica Rabbit)](https://github.com/jrabbit00) 🐰
